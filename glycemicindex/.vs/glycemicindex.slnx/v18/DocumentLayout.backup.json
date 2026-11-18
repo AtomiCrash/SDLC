@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\data\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\data\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\views\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\views\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\views\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\views\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|c:\\users\\atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\views\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3973F9A3-98FD-2A3E-3C78-95F7D88EA269}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\views\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701D4A19-9484-43D6-8D17-2CB3F0158FF2}|glycemicindex\\glycemicindex.csproj|C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701D4A19-9484-43D6-8D17-2CB3F0158FF2}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701D4A19-9484-43D6-8D17-2CB3F0158FF2}|glycemicindex\\glycemicindex.csproj|C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\views\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701D4A19-9484-43D6-8D17-2CB3F0158FF2}|glycemicindex\\glycemicindex.csproj|solutionrelative:glycemicindex\\views\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "products.txt",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Data\\products.txt",
+              "RelativeDocumentMoniker": "glycemicindex\\Data\\products.txt",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Data\\products.txt*",
+              "RelativeToolTip": "glycemicindex\\Data\\products.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-23T10:45:29.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\InputForm.Designer.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Views\\InputForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\InputForm.Designer.cs",
+              "RelativeToolTip": "glycemicindex\\Views\\InputForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T23:19:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Views\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\MainForm.Designer.cs",
+              "RelativeToolTip": "glycemicindex\\Views\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T23:14:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "glycemicindex\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:52:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Models\\Product.cs",
+              "RelativeToolTip": "glycemicindex\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:52:36.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Models\\ProductModel.cs",
+              "RelativeToolTip": "glycemicindex\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:52:12.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputForm.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\InputForm.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Views\\InputForm.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\InputForm.cs",
+              "RelativeToolTip": "glycemicindex\\Views\\InputForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:51:42.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\MainForm.cs",
+              "RelativeToolTip": "glycemicindex\\Views\\MainForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:43:34.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "glycemicindex\\Views\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:41:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\InputForm.cs",
+              "RelativeDocumentMoniker": "glycemicindex\\Views\\InputForm.cs",
+              "ToolTip": "C:\\Users\\Atomic_crash\\source\\repos\\glycemicindex\\glycemicindex\\Views\\InputForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "glycemicindex\\Views\\InputForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:41:19.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
